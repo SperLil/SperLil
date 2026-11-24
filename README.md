@@ -1,8 +1,10 @@
-##Olá! Sou o Lil
+<img width="480" height="360" alt="CodingZeroOneGIF" src="https://github.com/user-attachments/assets/ad97012a-28cd-427c-aebb-fdba5e7d6a8a" />##Olá! Sou o Lil
 
 - 🔭 Trabalho como Assistente de Ti
 - 🌱 Estudo C# .NET, API, FORMS
 - ⚡ Pronomes: Ele/Dele
+- 📖 Formado em ADS
+
 
 🎈🎈🎈🎈🎈 Aluno RD 🎈🎈🎈🎈🎈
 
