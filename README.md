@@ -1,4 +1,4 @@
-<img width="480" height="360" alt="CodingZeroOneGIF" src="https://github.com/user-attachments/assets/ad97012a-28cd-427c-aebb-fdba5e7d6a8a" />##Olá! Sou o Lil
+##Olá! Sou o Lil
 
 - 🔭 Trabalho como Assistente de Ti
 - 🌱 Estudo C# .NET, API, FORMS
@@ -21,5 +21,10 @@
 <div>  <a href="https://www.linkedin.com/in/lil-passos-5a012b191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lilsper13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  
 </div>
+
+
+
+##
+
+<img width="480" height="270" alt="GlitchCodingGIF" src="https://github.com/user-attachments/assets/4f3a3ea9-a189-4381-b6ca-e8b9c1d72d09" />
